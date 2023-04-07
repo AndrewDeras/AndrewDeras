@@ -1,7 +1,10 @@
 ### Olá, eu sou o Andrew Barbosa 👋
 
 * Técnico em Desenvolvimento Web - Prefeitura do Rio de Janeiro em parceria com SenacRJ e Resilia educação. 💻
-* Principais tecnologias: Javascript - ReactJs - NodeJs - ExpressJs - API-  mySQL - GIT - HTML - CSS - Bootstrap.
+* Principais tecnologias: Javascript - ReactJs - NodeJs - ExpressJs - API-  mySQL - GIT - HTML - CSS - Bootstrap. ⌨️
+* Idiomas:  
+  * Espanhol Nativo 🇪🇸   
+  * Português Nativo 🇧🇷.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrewderas/">
