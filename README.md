@@ -1,5 +1,6 @@
 ### Olá, eu sou o Andrew Barbosa 👋
 
+* Cursando Tecnologia em Sistemas de Computação - Universidade Federal Fluminense. 💻
 * Técnico em Desenvolvimento Web - Prefeitura do Rio de Janeiro em parceria com SenacRJ e Resilia educação. 💻
 * Principais tecnologias: Javascript - ReactJs - NodeJs - ExpressJs - API-  mySQL - GIT - HTML - CSS - Bootstrap. ⌨️
 * Idiomas:  
