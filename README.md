@@ -1,6 +1,6 @@
 ### Olá, eu sou o Andrew Barbosa 👋
 
-* Cursando Tecnologia em Sistemas de Computação - Universidade Federal Fluminense 1/6. 💻
+* Cursando Tecnologia em Sistemas de Computação - Universidade Federal Fluminense ( 1/6 ). 💻
 * Técnico em Desenvolvimento Web - Prefeitura do Rio de Janeiro em parceria com SenacRJ e Resilia educação 2022/23. 💻
 * Principais tecnologias: Javascript - ReactJs - NodeJs - ExpressJs - API-  mySQL - GIT - HTML - CSS - Bootstrap. ⌨️
 * Idiomas:  
